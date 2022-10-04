@@ -1,6 +1,7 @@
 import fs from "fs/promises";
 
-const buffer = await fs.readFile("file-system.mjs");
+const buffer = await fs.readFile("temp.txt");
 console.info(buffer.toString());
-await fs.writeFile("temp.txt", "Hello NodeJS");
 
+
+await fs.writeFile("temp.txt", "Hello world!");

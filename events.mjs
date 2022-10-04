@@ -8,5 +8,6 @@ emmiter.addListener("hello", (name) => {
 emmiter.addListener("hello", (name) => {
     console.info(`Halo ${name}`);
 })
+
 emmiter.emit("hello", "Ridwan");
 
