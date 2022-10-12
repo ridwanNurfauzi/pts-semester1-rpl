@@ -7,5 +7,3 @@ console.info(os.uptime());
 console.info(os.totalmem());
 console.info(os.freemem());
 console.table(os.networkInterfaces());
-
-

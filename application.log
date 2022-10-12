@@ -1,0 +1,11 @@
+kosong
+hallo
+┌─────────┬───────────────────────────────────────────────────┬───────┬──────────┐
+│ (index) │                       model                       │ speed │  times   │
+├─────────┼───────────────────────────────────────────────────┼───────┼──────────┤
+│    0    │ 'AMD Ryzen 3 3250U with Radeon Graphics         ' │ 2595  │ [Object] │
+│    1    │ 'AMD Ryzen 3 3250U with Radeon Graphics         ' │ 2595  │ [Object] │
+│    2    │ 'AMD Ryzen 3 3250U with Radeon Graphics         ' │ 2595  │ [Object] │
+│    3    │ 'AMD Ryzen 3 3250U with Radeon Graphics         ' │ 2595  │ [Object] │
+└─────────┴───────────────────────────────────────────────────┴───────┴──────────┘
+255
